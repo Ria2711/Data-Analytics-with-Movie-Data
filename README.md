@@ -4,4 +4,4 @@
 
 Libraries : 
 * All the codes are written on Jupyternotebook. The python libraries include numpy, pandas, matplotlib and seaborn. Please make sure you
-have all these libraries installed. 
+have all these libraries installed so that no problem arises while making the edits and viewing the data analytics
